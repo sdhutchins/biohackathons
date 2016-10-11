@@ -1,1 +1,1 @@
-# BIOF339_PracticalR
+# NCBI Hackathons Website
