@@ -1,0 +1,20 @@
+.no-margin{
+	margin:0px;
+	
+}
+.no-padding{
+	padding:0px;
+
+}
+
+.my-navbar .my-main{
+	color:white;
+}
+
+.my-navbar .my-second-main li a{
+	color:white;
+}
+
+.my-navbar .my-second-main .dropdown-menu li a {
+	color:black;
+}
