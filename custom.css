@@ -25,3 +25,58 @@
     right: 0;
    
 }
+
+.site-footer
+{
+	background-color:black;
+	margin-top:30px;
+	padding-top:30px;
+}
+
+h4 {
+	color:white;
+	padding:0px 10px;
+}
+address {
+	color:white;
+	padding:0px 10px;
+
+}
+.bottom-footer{
+	border-top:1px solid #b2b2b2;
+	margin-top:10px;
+	padding-top:10px;
+	color:gray;
+}
+
+.footer-nav{
+	text-align:right;
+	list-style:none;
+	
+}
+
+.footer-nav li 
+{
+	display:inline;	
+	
+}
+
+.footer-nav li:not(:first-child):before{
+	content: '|';
+	padding:0px 10px;
+}
+
+.footer-nav a {
+	color:#b2b2b2;
+}
+
+.footer-nav a:hover {
+	color:white;
+	text-decoration:none;
+}
+
+.panel-default{
+	margin-right:-10px;
+	background-color:#DCDCDC;
+}
+
