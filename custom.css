@@ -1,0 +1,97 @@
+.no-margin{
+	margin:0px;
+	
+}
+.no-padding{
+	padding:0px;
+
+}
+
+.my-navbar .my-main{
+	color:white;
+}
+
+.my-navbar .my-second-main li a{
+	color:white;
+}
+
+.my-navbar .my-second-main .dropdown-menu li a {
+	color:black;
+}
+
+.my-banner{
+	
+    left: 0;
+    right: 0;
+   
+}
+
+.site-footer
+{
+	background-color:black;
+	margin-top:30px;
+	padding-top:30px;
+}
+
+h4 {
+	color:white;
+	padding:0px 10px;
+}
+address {
+	color:white;
+	padding:0px 10px;
+
+}
+.bottom-footer{
+	border-top:1px solid #b2b2b2;
+	margin-top:10px;
+	padding-top:10px;
+	color:gray;
+}
+
+.footer-nav{
+	text-align:right;
+	list-style:none;
+	
+}
+
+.footer-nav li 
+{
+	display:inline;	
+	
+}
+
+.footer-nav li:not(:first-child):before{
+	content: '|';
+	padding:0px 10px;
+}
+
+.footer-nav a {
+	color:#b2b2b2;
+}
+
+.footer-nav a:hover {
+	color:white;
+	text-decoration:none;
+}
+
+.panel-default{
+	margin-right:-10px;
+	background-color:#DCDCDC;
+}
+
+h2{
+	font-size: 60px;
+	text-align: center;
+}
+
+.panel-default{
+
+top : 40%;
+}
+
+.panel-body{
+ 	max-height: 300px;
+    overflow-y: scroll;
+    padding-top:0px;
+}
