@@ -80,3 +80,18 @@ address {
 	background-color:#DCDCDC;
 }
 
+h2{
+	font-size: 60px;
+	text-align: center;
+}
+
+.panel-default{
+
+top : 40%;
+}
+
+.panel-body{
+ 	max-height: 300px;
+    overflow-y: scroll;
+    padding-top:0px;
+}
