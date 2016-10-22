@@ -95,3 +95,10 @@ top : 40%;
     overflow-y: scroll;
     padding-top:0px;
 }
+
+h3{
+	font-family: :"Tahoma", Geneva, sans-serif;
+	text-align: center;
+	font-size: 30px;
+	padding-left:20px;
+	}
