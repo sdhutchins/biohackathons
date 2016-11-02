@@ -1,4 +1,4 @@
-# Metagenomes
+# Community Resources
 
 ### Repository name 1
 
