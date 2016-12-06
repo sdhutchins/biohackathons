@@ -1,3 +1,5 @@
-# BIOF339_PracticalR
+# NCBI Hackathons Github Page!
 
-This is a repository for the web-page of BIOF 339. 
+https://ncbi-hackathons.github.io/
+
+
