@@ -1,0 +1,136 @@
+.no-margin{
+	margin:0px;
+	
+}
+.no-padding{
+	padding:0px;
+	border-bottom: 6px solid #222;
+    background-color: #222;
+
+
+}
+
+.my-navbar{
+
+}
+
+.my-navbar .my-main{
+	color:white;
+
+}
+
+.my-navbar .my-second-main li a{
+	color:white;
+}
+
+.my-navbar .my-second-main .dropdown-menu li a {
+	color:black;
+}
+
+.my-banner{
+	
+    left: 0;
+    right: 0;
+   
+}
+
+.site-footer
+{
+	background-color:black;
+}
+
+h4 {
+	color:white;
+	padding:0px 10px;
+}
+address {
+	color:white;
+	padding:0px 10px;
+
+}
+.bottom-footer{
+	
+	margin-top:0px;
+	padding-top:0px;
+	color:gray;
+ border-top:1px solid #b2b2b2;
+}
+
+.footer-nav{
+	text-align:right;
+	list-style:none;
+	
+}
+
+.footer-nav li 
+{
+	display:inline;	
+	top:20px;
+
+}
+
+.footer-nav li:not(:first-child):before{
+	content: '|';
+	
+}
+
+.footer-nav a {
+	color:#b2b2b2;
+	
+}
+
+.footer-nav a:hover {
+	color:white;
+	text-decoration:none;
+}
+
+.panel-default{
+	background-color:#DCDCDC;
+}
+
+h2{
+	font-size: 60px;
+	text-align: center;
+}
+
+.panel-default{
+
+top : 40%;
+width:100%;
+
+}
+
+.panel-body{
+ 	max-height: 300px;
+    overflow-y: scroll;
+    padding-top:0px;
+	
+	
+}
+
+h3{
+	font-family: :"Tahoma", Geneva, sans-serif;
+	text-align: center;
+	font-size: 30px;
+	padding-left:10px;
+	}
+
+
+.site-footer .column{
+padding:0px;
+margin:10px;
+
+}
+
+.site-footer .column a{
+color:#b2b2b2;
+
+}
+
+.column{
+	display: inline-block;
+vertical-align: middle;
+float: none;
+
+}
+

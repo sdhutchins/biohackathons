@@ -1,5 +1,5 @@
 ---
-title: "Metagenomics"
+title: "Community Resources"
 output: 
   html_document: 
     keep_md: yes

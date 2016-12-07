@@ -1,9 +1,4 @@
----
-title: "Metagenomics"
-output: 
-  html_document: 
-    keep_md: yes
----
+# Graph Genomes
 
 ### Repository name 1
 

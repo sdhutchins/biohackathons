@@ -1,9 +1,4 @@
----
-title: "Metagenomics"
-output: 
-  html_document: 
-    keep_md: yes
----
+# Other
 
 ### Repository name 1
 
