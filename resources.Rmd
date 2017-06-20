@@ -1,10 +1,8 @@
 ---
-title: "Resources"
+title: "Help"
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
-#### General resources
-
-+ [Quick-R](http://www.statmethods.net)
-+ [Twotorials](http://www.twotorials.com)
-+ [UCLA IDRE R resources](http://www.ats.ucla.edu/stat/r/)
-+ [Google R Style Guide](https://google.github.io/styleguide/Rguide.xml)
+## <a href="https://github.com/NCBI-Hackathons">Link to main Github Repo for NCBI Hackathons</a>
