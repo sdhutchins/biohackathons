@@ -4,25 +4,25 @@
   manuscript_URL: "https://f1000research.com/articles/6-443/"
   manuscript_title: "DangerTrack: A scoring system to detect difficult-to-assess regions"
 
-- name: "Master_gff3_parser"
+- name: "Master gff3 parser"
   desc: "SeqIDMapper provides naming consistency in these input files by converting the sequence feature IDs in the entire file to the desired ID format using a single command."
   repo_URL: "https://github.com/NCBI-Hackathons/Master_gff3_parser"
   manuscript_URL:
   manuscript_title:
 
-- name: "ga4gh-ncbi-api"
+- name: "ga4gh ncbi api"
   desc: "Making NCBI data available using GA4GH methods."
   repo_URL: "https://github.com/NCBI-Hackathons/ga4gh-ncbi-api"
   manuscript_URL:
   manuscript_title:
 
-- name: "Graph_Extraction"
+- name: "Graph Extraction"
   desc: "Motivate the transition to graph genomes, we developed a simple graph-based genome browser that is accessible at http://graphymcbrowserface.umbc.in."
   repo_URL: "https://github.com/NCBI-Hackathons/Graph_Extraction"
   manuscript_URL:
   manuscript_title:
 
-- name: "Virus_Detection_SRA"
+- name: "Virus Detection SRA"
   desc: "Sidearm searches the SRA database for viruses using the NCBI magicBLAST tool."
   repo_URL: "https://github.com/NCBI-Hackathons/Virus_Detection_SRA"
   manuscript_URL:
@@ -34,7 +34,7 @@
   manuscript_URL:
   manuscript_title:
 
-- name: "Epigenomics_CWL"
+- name: "Epigenomics CWL"
   desc: "A CWL Pipeline and Docker Image for Performing Standard Single-Cell DNA Methylation Analyses."
   repo_URL: "https://github.com/NCBI-Hackathons/Epigenomics_CWL"
   manuscript_URL:
@@ -52,7 +52,7 @@
   manuscript_URL:
   manuscript_title:
 
-- name: "Visualizing_MeSH_Term_Interaction_Over_Time"
+- name: "Visualizing MeSH Term Interaction Over Time"
   desc: "A tool to visually browse co-occurrence of MeSH terms in PubMeb."
   repo_URL: "https://github.com/NCBI-Hackathons/Visualizing_MeSH_Term_Interaction_Over_Time"
   manuscript_URL:
@@ -70,13 +70,13 @@
   manuscript_URL:
   manuscript_title:
 
-- name: "Structural_Variant_Comparison"
+- name: "Structural Variant Comparison"
   desc: "Tools to compare structural variants to those in public databases!."
   repo_URL: "https://github.com/NCBI-Hackathons/Structural_Variant_Comparison"
   manuscript_URL: "https://f1000research.com/articles/5-673/"
   manuscript_title: "dbVar structural variant cluster set for data analysis and variant comparison"
 
-- name: "Structural_Variants_CSHL"
+- name: "Structural Variants CSHL"
   desc: "10x genomics read simulator, topsorter and danger track."
   repo_URL: "https://github.com/NCBI-Hackathons/Structural_Variants_CSHL"
   manuscript_URL:
@@ -88,13 +88,13 @@
   manuscript_URL:
   manuscript_title:
 
-- name: "Ultrafast_Mapping_CSHL"
+- name: "Ultrafast Mapping CSHL"
   desc: "Finding expressed variants while streaming data."
   repo_URL: "https://github.com/NCBI-Hackathons/Ultrafast_Mapping_CSHL"
   manuscript_URL:
   manuscript_title:
 
-- name: "RNA_mapping"
+- name: "RNA mapping"
   desc: "A self-guided hands-on RNAseq tutorial designed to run for free on cloud services."
   repo_URL: "https://github.com/NCBI-Hackathons/RNA_mapping"
   manuscript_URL: "https://f1000research.com/articles/5-888/"
@@ -106,31 +106,31 @@
   manuscript_URL: "https://f1000research.com/articles/6-596/"
   manuscript_title: "Viewing RNA-seq data on the entire human genome"
 
-- name: "Code_in_PubMed_Abstracts"
+- name: "Code in PubMed Abstracts"
   desc: "This tool searches for code cited in PubMed abstracts by searching for popular repositories such as GitHub and Bitbucket."
   repo_URL: "https://github.com/NCBI-Hackathons/Code_in_PubMed_Abstracts"
   manuscript_URL:
   manuscript_title:
 
-- name: "Network_SNPs"
+- name: "Network SNPs"
   desc: "MetaNetVar is a pipeline for applying network analysis tools for genomic variant analysis."
   repo_URL: "https://github.com/NCBI-Hackathons/Network_SNPs"
   manuscript_URL: "https://f1000research.com/articles/5-674/"
   manuscript_title: "MetaNetVar: Pipeline for applying network analysis tools for genomic variants analysis"
 
-- name: "Network_Stats_Acc_Interop"
+- name: "Network Stats Acc Interop"
   desc: "SNP FSA is a pipeline for applying statistical analysis tools to identify interactions between SNPs and their effects on phenotypic expression."
   repo_URL: "https://github.com/NCBI-Hackathons/Network_Stats_Acc_Interop"
   manuscript_URL:
   manuscript_title:
 
-- name: "3D_2D_Rep_Structure"
+- name: "3D 2D Rep Structure"
   desc: "Tool to create 2D diagrams from 3D protein structures and render them side by side."
   repo_URL: "https://github.com/NCBI-Hackathons/3D_2D_Rep_Structure"
   manuscript_URL:
   manuscript_title:
 
-- name: "iCN3D-MMTF"
+- name: "iCN3D MMTF"
   desc: "Ultrafast transfer of protein structure information from pdb to the NCBI iCN3D viewer."
   repo_URL: "https://github.com/NCBI-Hackathons/iCN3D-MMTF"
   manuscript_URL:
@@ -142,25 +142,25 @@
   manuscript_URL:
   manuscript_title:
 
-- name: "Metadata_categorization"
+- name: "Metadata categorization"
   desc: "A crowdsourcing/expert curation platform for metadata categorization."
   repo_URL: "https://github.com/NCBI-Hackathons/Metadata_categorization"
   manuscript_URL:
   manuscript_title:
 
-- name: "TCGA_dbGaP"
+- name: "TCGA dbGaP"
   desc: "The repository contains scripts to automatically fetch related dbGaP studies and subsequently the specific sequence files for given TCGA data."
   repo_URL: "https://github.com/NCBI-Hackathons/TCGA_dbGaP"
   manuscript_URL: "https://f1000research.com/articles/6-319/"
   manuscript_title: "Extending TCGA queries to automatically identify analogous genomic data from dbGaP"
 
-- name: "Machine_Learning_Immunogenicity"
+- name: "Machine Learning Immunogenicity"
   desc: "A pipeline to learn about the immunogenicity of peptides based on prior data using TensorFlow."
   repo_URL: "https://github.com/NCBI-Hackathons/Machine_Learning_Immunogenicity"
   manuscript_URL:
   manuscript_title:
 
-- name: "Cancer_Epitopes_CSHL"
+- name: "Cancer Epitopes CSHL"
   desc: "A pipeline to approximate the immunogenicity of peptides resulting from cancer mutations based on structure and other factors."
   repo_URL: "https://github.com/NCBI-Hackathons/Cancer_Epitopes_CSHL"
   manuscript_URL:
