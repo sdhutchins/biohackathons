@@ -1,0 +1,11 @@
+<ul class="list-reset mt4">
+  {% for product in site.data.hackathon_products %}
+    <li class="h4 thin mb4">
+      <p class="bold">{{ product.name }}</p>
+      <p>{{ product.desc }}</p>
+      <div class="small">
+        <a href="{{ product.repo_URL }}"><i class="fa fa-github fa-lg"></i> source code</a>{% if product.manuscript_URL %} | <a href="{{ product.manuscript_URL }}"><i class="fa fa-book fa-lg"></i> manuscript</a>{% endif %}
+      </div>
+    </li>
+  {% endfor %}
+</ul>
