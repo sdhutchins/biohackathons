@@ -1,0 +1,5 @@
+<ul>
+  {% for event in site.data.upcoming_hackathons %}
+    <li class="h4 thin">{% if event.link %}<a href="{{ event.link }}">{% endif %}{{ event.loc }}{% if event.link %}</a>{% endif %}, {{ event.date }}</li>
+  {% endfor %}
+</ul>
