@@ -38,6 +38,31 @@
         </div>
 
       </div><!-- /.row -->
+      <div class="row">
+
+        <div class="col-xs-12">
+          <div class="panel panel-default">
+            <div class="p3">
+              <p class="h0">NCBI Hackathon Products</p>
+
+              <div class="flex flex-wrap">
+                {% for product in site.data.hackathon_products %}
+                <div class="col-3 p2">
+                  <div class="border p2">
+                    <p class="bold">{{ product.name }}</p>
+                    <p>{{ product.desc }}</p>
+                    <div class="small">
+                      <a href="{{ product.repo_URL }}"><i class="fa fa-github fa-lg"></i> source code</a>{% if product.manuscript_URL %} | <a href="{{ product.manuscript_URL }}"><i class="fa fa-book fa-lg"></i> manuscript</a>{% endif %}
+                    </div>
+                  </div>
+                </div>
+                {% endfor %}
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div><!-- /.row -->
 
     </div><!-- /.container -->
 
