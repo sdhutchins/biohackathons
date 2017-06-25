@@ -1,0 +1,13 @@
+<div class="container p2">
+        <div class="mxn2">
+
+          <h1 class="h0 mt0 px3 regular">NCBI Hackathon Products</h1>
+
+          <div class="flex flex-wrap p2">
+          {% for product in site.data.hackathon_products %}
+            {% include hackathon-product-item.html %}
+          {% endfor %}
+          </div>
+
+        </div>
+      </div>
