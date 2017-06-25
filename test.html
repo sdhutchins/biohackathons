@@ -7,13 +7,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/custom.css">
     <link rel="stylesheet" href="https://unpkg.com/basscss@7.1.1/css/basscss.min.css">
     <title>TITLE</title>
-    <meta name="description" content="">
-    <meta name="author" content="Brian Zelip">
-    <meta name="keywords" content="">
     <style>
       * {box-sizing: border-box;}
+      html,
+      body,
+      .vh100 {
+        min-height: 100vh;
+      }
       body {color:rgb(58, 58, 58);}
       body, .h0, h1, h2, h3, h4, h5, h6 {
         font-family: -apple-system,
@@ -37,31 +41,44 @@
       .h0 {font-size: 3rem;}
       .soft-black{background-color:rgb(58, 58, 58);}
       .bg-soft-black{background-color:rgb(58, 58, 58);}
+      .rounded { border-radius:4px; }
+      .rounded-top { border-radius:4px 4px 0 0; }
+      .rounded-right { border-radius:0 4px 4px 0; }
+      .rounded-bottom { border-radius:0 0 4px 4px; }
+      .rounded-left { border-radius:4px 0 0 4px; }
     </style>
   </head>
 
   <body>
 
-    <div class="container p2 mt4 bg-silver rounded">
-      <div class="mxn2">
-        <p class="h0 px3">NCBI Hackathon Products</p>
-        <div class="flex flex-wrap p2">
-          {% for product in site.data.hackathon_products %}
-          <div class="col-4 p2 flex overflow-scroll">
-            <div class="col-12 border align-items-stretch">
-              <div class="p2">
-              <p class="bold">{{ product.name }}</p>
-              <p>{{ product.desc }}</p>
-              <div class="small">
-                <a href="{{ product.repo_URL }}"><i class="fa fa-github fa-lg"></i> source code</a>{% if product.manuscript_URL %} | <a href="{{ product.manuscript_URL }}"><i class="fa fa-book fa-lg"></i> manuscript</a>{% endif %}
+    <section class="bg-darken-1">
+
+      <div class="container p2">
+        <div class="mxn2">
+          <p class="h0 px3">NCBI Hackathon Products</p>
+          <div class="flex flex-wrap p2">
+            {% for product in site.data.hackathon_products %}
+            <div class="sm-col-6 md-col-4 p2 flex overflow-scroll">
+              <div class="col-12 border rounded-top bg-white align-items-stretch">
+                <div>
+                  <div class="p2 bg-soft-black rounded-top">
+                    <p class="white bold h2 mb0">{{ product.name }}</p>
+                  </div>
+                  <div class="p2">
+                    <p>{{ product.desc }}</p>
+                    <div class="small">
+                      <a href="{{ product.repo_URL }}"><i class="fa fa-github fa-lg"></i> source code</a>{% if product.manuscript_URL %} | <a href="{{ product.manuscript_URL }}"><i class="fa fa-book fa-lg"></i> manuscript</a>{% endif %}
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
-            </div>
+            {% endfor %}
           </div>
-          {% endfor %}
         </div>
       </div>
-    </div>
+
+    </section>
 
   </body>
 
