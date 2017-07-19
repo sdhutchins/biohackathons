@@ -26,6 +26,6 @@ Applicants must be willing to commit to all three days of the event.
 
 No financial support for travel, lodging or meals is available for this event.
 
-# Publicity 
+## Publicity 
 
-[NCBI Blog Posts About Hackathons](https://ncbiinsights.ncbi.nlm.nih.gov/tag/hackathon/)
+#### [NCBI Blog Posts About Hackathons](https://ncbiinsights.ncbi.nlm.nih.gov/tag/hackathon/)
