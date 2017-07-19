@@ -1,3 +1,9 @@
+- name: "Tumor_sim"
+  desc: "Simulation of Tumor Genomes."
+  repo_URL: "https://github.com/NCBI-Hackathons/Tumor_sim"
+  manuscript_URL: 
+  manuscript_title: 
+
 - name: "DangerTrack"
   desc: "A system for evaluating difficult to assess regions that uses SV calls and mappability to generate a genome-wide score."
   repo_URL: "https://github.com/NCBI-Hackathons/DangerTrack"
