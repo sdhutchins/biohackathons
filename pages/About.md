@@ -25,3 +25,7 @@ A working knowledge of scripting (e.g., Shell, Python) is necessary to be succes
 Applicants must be willing to commit to all three days of the event.
 
 No financial support for travel, lodging or meals is available for this event.
+
+# Publicity 
+
+https://ncbiinsights.ncbi.nlm.nih.gov/tag/hackathon/
