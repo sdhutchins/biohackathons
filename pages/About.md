@@ -28,4 +28,4 @@ No financial support for travel, lodging or meals is available for this event.
 
 # Publicity 
 
-https://ncbiinsights.ncbi.nlm.nih.gov/tag/hackathon/
+[NCBI Blog Posts About Hackathons](https://ncbiinsights.ncbi.nlm.nih.gov/tag/hackathon/)
