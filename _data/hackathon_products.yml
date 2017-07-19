@@ -1,3 +1,15 @@
+- name: "Protein Correlation with Shiny"
+  desc: "A Shiny App to Support Proteomic Correlation"
+  repo_URL: "https://github.com/NCBI-Hackathons/Proteomic_Correlation_Shiny"
+  manuscript_URL: 
+  manuscript_title: 
+
+- name: "BarcSeek"
+  desc: "BarcSeek: A Flexible Barcode Partitioning Tool for Demultiplexing Genomic Sequencing Data"
+  repo_URL: "https://github.com/NCBI-Hackathons/BarcSeek"
+  manuscript_URL: 
+  manuscript_title: 
+
 - name: "Tumor_sim"
   desc: "Simulation of Tumor Genomes."
   repo_URL: "https://github.com/NCBI-Hackathons/Tumor_sim"
