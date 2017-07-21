@@ -1,6 +1,12 @@
+- name: "arvos"
+  desc: "A dockerized database and flask template for presentation of RNAseq results!"
+  repo_URL: "https://github.com/NCBI-Hackathons/arvos"
+  manuscript_URL: 
+  manuscript_title: 
+
 - name: "Products Generated in the SVAI NF2 Hackathon"
   desc: ""
-  repo_URL: "github.com/SVAI"
+  repo_URL: "https://github.com/SVAI"
   manuscript_URL: 
   manuscript_title: 
 
