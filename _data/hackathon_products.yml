@@ -1,3 +1,21 @@
+- name: "Products Generated in the SVAI NF2 Hackathon"
+  desc: ""
+  repo_URL: ""
+  manuscript_URL: 
+  manuscript_title: 
+
+- name: "Mutation_burden"
+  desc: "Calculates clone-specific mutational burden and evaluates whether there is any evidence counterindicating immunotherapy"
+  repo_URL: "https://github.com/NCBI-Hackathons/Mutation_burden"
+  manuscript_URL: 
+  manuscript_title: 
+
+- name: "SuMu"
+  desc: "Estimating Association of Genetic Features with Survival"
+  repo_URL: "https://github.com/NCBI-Hackathons/SuMu"
+  manuscript_URL: 
+  manuscript_title: 
+
 - name: "Protein Correlation with Shiny"
   desc: "A Shiny App to Support Proteomic Correlation"
   repo_URL: "https://github.com/NCBI-Hackathons/Proteomic_Correlation_Shiny"
