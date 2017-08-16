@@ -14,10 +14,26 @@
   loc: "Baylor College of Medicine"
   link:
 
-- date: "March 11-14, 2018"
+- date: "March 12-14, 2018"
+  loc: "Chapel Hill, NC"
+  link:
+
+- date: "March 19-21, 2018"
   loc: "NIH Campus"
   link:
 
 - date: "May 15-17, 2018"
   loc: "Ann Arbor, MI"
+  link:
+
+- date: "June 20-22, 2018"
+  loc: "Boulder, CO"
+  link:
+
+- date: "July 11-13, 2018"
+  loc: "Chicago, IL"
+  link:
+  
+  - date: "Two Spring Hackathons - TBD"
+  loc: "West Coast, likely CA"
   link:
