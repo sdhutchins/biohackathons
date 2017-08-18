@@ -1,3 +1,10 @@
+- name: "Gene Expression in Aging"
+  desc: "Modular toolkit for RNAseq viewers and viewing"
+  repo_URL: "https://github.com/NCBI-Hackathons/GeneExpressionAging"
+  manuscript_URL: 
+  manuscript_title: 
+  website: https://ncbi-hackathons.github.io/GeneExpressionAging/ideogram
+
 - name: "Adapter Database"
   desc: "A database of adapter sequences found in public databases"
   repo_URL: "https://github.com/NCBI-Hackathons/OnlineAdapterDatabase"
