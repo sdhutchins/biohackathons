@@ -1,4 +1,10 @@
-- name: "GenomicRobots"
+- name: "Adapter Database"
+  desc: "A database of adapter sequences found in public databases"
+  repo_URL: "https://github.com/NCBI-Hackathons/OnlineAdapterDatabase"
+  manuscript_URL: 
+  manuscript_title: 
+
+- name: "Genomic Robots"
   desc: "A Robotic Encapsulation of a variant calling robot that can return deidentified results"
   repo_URL: "https://github.com/NCBI-Hackathons/GenomicRobots"
   manuscript_URL: 
