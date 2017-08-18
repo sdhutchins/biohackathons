@@ -1,3 +1,9 @@
+- name: "NastyBugs"
+  desc: "A simple method for finding antimicrobial resistance genes in metagenomic datasets"
+  repo_URL: "https://github.com/NCBI-Hackathons/MetagenomicAntibioticResistance"
+  manuscript_URL: 
+  manuscript_title: 
+
 - name: "Gene Expression in Aging"
   desc: "Modular toolkit for RNAseq viewers and viewing"
   repo_URL: "https://github.com/NCBI-Hackathons/GeneExpressionAging"
