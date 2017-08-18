@@ -1,3 +1,9 @@
+- name: "GenomicRobots"
+  desc: "A Robotic Encapsulation of a variant calling robot that can return deidentified results"
+  repo_URL: "https://github.com/NCBI-Hackathons/GenomicRobots"
+  manuscript_URL: 
+  manuscript_title: 
+
 - name: "arvos"
   desc: "A dockerized database and flask template for presentation of RNAseq results!"
   repo_URL: "https://github.com/NCBI-Hackathons/arvos"
