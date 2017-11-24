@@ -1,7 +1,7 @@
 - name: "NastyBugs"
   desc: "A simple method for finding antimicrobial resistance genes in metagenomic datasets"
   repo_URL: "https://github.com/NCBI-Hackathons/MetagenomicAntibioticResistance"
-  manuscript_URL: 
+  manuscript_URL: https://f1000research.com/articles/6-1971/v1
   manuscript_title: 
 
 - name: "Gene Expression in Aging"
