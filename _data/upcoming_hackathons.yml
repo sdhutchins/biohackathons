@@ -8,22 +8,26 @@
 
 - date: "March 12-14, 2018"
   loc: "Chapel Hill, NC"
-  link:
+  link: https://goo.gl/forms/dooIdKzFMn5z0wGy2
 
 - date: "March 19-21, 2018"
   loc: "NIH Campus"
-  link:
+  link: 
+  
+- date: "April 2-4, 2018"
+  loc: "NorCal (UCSC)"
+  link: https://goo.gl/forms/CoU1TnOP6aYNEITi1
 
-- date: "May 15-17, 2018"
+- date: "May 14-16, 2018"
   loc: "Ann Arbor, MI"
-  link:
+  link: https://goo.gl/forms/0WMrceVCsgJtgg573
 
 - date: "June 20-22, 2018"
   loc: "Boulder, CO"
   link: https://hackathon.colorado.edu/
 
 - date: "June 29-30, 2018"
-  loc: "GCC/BOSC 2018 bioinformatics community conference CollaborationFest; Portland, OR USA"
+  loc: "GCC/BOSC 2018 -- Portland, OR USA"
   link: https://gccbosc2018.sched.com/
 
 - date: "July 11-13, 2018"
