@@ -1,3 +1,15 @@
+- name: "Biollante"
+  desc: "Biollante: A Tool to Identify Contamination in Plant Genomic Datasets"
+  repo_URL: "https://github.com/NCBI-Hackathons/biollante"
+  manuscript_URL: 
+  manuscript_title: 
+
+- name: "VirusFriends"
+  desc: "VirusFriends: discover viral sequences in the NCBI Sequence Read Archive!"
+  repo_URL: "https://github.com/NCBI-Hackathons/VirusFriends"
+  manuscript_URL: 
+  manuscript_title: 
+
 - name: "NastyBugs"
   desc: "A simple method for finding antimicrobial resistance genes in metagenomic datasets"
   repo_URL: "https://github.com/NCBI-Hackathons/MetagenomicAntibioticResistance"
