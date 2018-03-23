@@ -1,3 +1,45 @@
+- name: "ClusterDuck (alpha)"
+  desc: "Disease Clustering from Literature Based on Minimal Training Data"
+  repo_URL: "https://github.com/NCBI-Hackathons/ClusterDuck"
+  manuscript_URL: 
+  manuscript_title: 
+
+- name: "EgreTT (alpha)"
+  desc: "a merezoite Egress Tracking Tool for light microscopy studies"
+  repo_URL: ""
+  manuscript_URL: 
+  manuscript_title: 
+
+- name: "viSRAtoo (beta)"
+  desc: "Viewing genome expression on the gene and genome level"
+  repo_URL: "https://github.com/NCBI-Hackathons/"
+  manuscript_URL: 
+  manuscript_title: 
+
+- name: "PubCode (concept)"
+  desc: "An app platform for CLI Apps that engage NCBI/NLM Data and Services"
+  repo_URL: "https://github.com/NCBI-Hackathons/PubCode"
+  manuscript_URL: 
+  manuscript_title: 
+
+- name: "MASSIF-BLAST (concept)"
+  desc: "A toolkit of pipelines to assess and repair badly assembled genomes"
+  repo_URL: "https://github.com/NCBI-Hackathons/MASSIF-BLAST"
+  manuscript_URL: 
+  manuscript_title: 
+
+- name: "drugdisco (beta)"
+  desc: "A high throughput automated drug discovery pipeline"
+  repo_URL: "https://github.com/NCBI-Hackathons/drugdisco"
+  manuscript_URL: 
+  manuscript_title: 
+
+- name: "MR_BACOn (beta)"
+  desc: "Mendelian Randomization with Biomarker Associations for Causality with Outcomes"
+  repo_URL: "https://github.com/NCBI-Hackathons/MR_BACOn"
+  manuscript_URL: 
+  manuscript_title: 
+
 - name: "Biollante"
   desc: "Biollante: A Tool to Identify Contamination in Plant Genomic Datasets"
   repo_URL: "https://github.com/NCBI-Hackathons/biollante"
