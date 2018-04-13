@@ -1,15 +1,3 @@
-- date: "March 12-14, 2018 Registration Deadline Extended to February 20th!"
-  loc: "Chapel Hill, NC"
-  link: 
-
-- date: "March 19-21, 2018"
-  loc: "NIH Campus"
-  link: 
-  
-- date: "April 2-4, 2018"
-  loc: "NorCal (UCSC)"
-  link: 
-  
 - date: "April 16-18, 2018"
   loc: "NIH Campus"
   link: https://docs.google.com/document/d/18LTB50P15sEGclj4fEFyk3_EftxbiZ5HiMomv0yRuLQ/edit?usp=sharing
@@ -21,6 +9,10 @@
 - date: "May 14-16, 2018"
   loc: Boston, MA (Bio-IT World)
   link: 
+
+- date: "May 18-20, 2018"
+  loc: sv.ai Papillary Renal Cell Carcinoma Hackathon, San Francisco, CA
+  link: https://sv.ai/papillary-renal-cell-carcinoma
 
 - date: "June 20-22, 2018 - Registration Now Open!"
   loc: "Boulder, CO"
