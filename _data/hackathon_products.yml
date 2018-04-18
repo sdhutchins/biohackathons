@@ -1,3 +1,21 @@
+- name: "Gerber" 
+  desc: "Generalized Easy Reproducible Bioinformatics Environment wRapper"
+  repo_URL: "https://github.com/NCBI-Hackathons/ContainerInception" 
+  manuscript_URL: "https://ncbi-hackathons.github.io/ContainerInception/" 
+  manuscript_title: 
+
+- name: "SpoonFedNanopore"
+  desc: "The world's simplest open-source nanopore alignment and assembly algorithm"
+  repo_URL: "https://github.com/NCBI-Hackathons/SpoonFedNanopore"
+  manuscript_URL: 
+  manuscript_title: 
+
+- name: "HapPyNet"
+  desc: "Haplotype Block Based Dimensionality Reduction for Complex Variant-Disease Associations"
+  repo_URL: "https://github.com/NCBI-Hackathons/HapPyNet"
+  manuscript_URL: 
+  manuscript_title: 
+
 - name: "ClusterDuck (alpha)"
   desc: "Disease Clustering from Literature Based on Minimal Training Data"
   repo_URL: "https://github.com/NCBI-Hackathons/ClusterDuck"
