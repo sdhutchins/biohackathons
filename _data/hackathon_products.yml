@@ -1,3 +1,15 @@
+- name: "SeqAcademy" 
+  desc: "Self-guided educational workshop for ChIP-Seq and RNA-Seq https://seqacademy.org"
+  repo_URL: "https://github.com/NCBI-Hackathons/seqacademy" 
+  manuscript_URL:  
+  manuscript_title: 
+
+- name: "Retrospotter" 
+  desc: "A computational pipeline for measuring the expression of Human Endogenous Retroviruses using publicly available RNA Seq Data."
+  repo_URL: "https://github.com/NCBI-Hackathons/retrospotter" 
+  manuscript_URL:  
+  manuscript_title: 
+
 - name: "Gerber" 
   desc: "Generalized Easy Reproducible Bioinformatics Environment wRapper"
   repo_URL: "https://github.com/NCBI-Hackathons/ContainerInception" 
