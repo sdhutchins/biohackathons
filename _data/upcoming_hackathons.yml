@@ -1,17 +1,17 @@
 - date: "April 16-18, 2018"
-  loc: "NIH Campus"
-  link: https://docs.google.com/document/d/18LTB50P15sEGclj4fEFyk3_EftxbiZ5HiMomv0yRuLQ/edit?usp=sharing
+  loc: "NIH Campus (NCBI sensu strictu)"
+  link:
 
 - date: "May 10-11, 2018"
   loc: "eLife Innovation Sprint, Cambridge UK"
   link: https://elifesciences.org/events/c40798c3/elife-innovation-sprint-2018
 
 - date: "May 14-16, 2018"
-  loc: Boston, MA (Bio-IT World)
+  loc: Boston, MA (Bio-IT World) (NCBI is a community partner!)
   link: "http://www.bio-itworldexpo.com/hackathon_reg.aspx"
 
 - date: "May 18-20, 2018"
-  loc: sv.ai Papillary Renal Cell Carcinoma Hackathon, San Francisco, CA
+  loc: sv.ai Papillary Renal Cell Carcinoma Hackathon, San Francisco, CA (NCBI is a community partner!)
   link: https://sv.ai/papillary-renal-cell-carcinoma
 
 - date: "June 9-11th, 2018 - Cancer Informatics Hackathon at UPMC"
@@ -19,21 +19,33 @@
   link: https://www.naaccr.org/hack
 
 - date: "June 20-22, 2018 - Registration Now Open!"
-  loc: "Boulder, CO"
+  loc: "Boulder, CO" (NCBI sensu strictu)
   link: https://hackathon.colorado.edu/
 
 - date: "June 29-30, 2018"
-  loc: "GCC/BOSC 2018 -- Portland, OR USA"
+  loc: "GCC/BOSC 2018 -- Portland, OR USA" (@DCGenomics leading a team)
   link: https://gccbosc2018.sched.com/
 
 - date: "July 11-13, 2018"
-  loc: "Chicago, IL"
+  loc: "Chicago, IL" (NCBI sensu strictu)
   link: https://docs.google.com/document/d/10Ux_C79AF-wIekvQEMTKFOVkRpbcHVnBv1_JCzisySw/edit?usp=drivesdk
   
 - date: "July 23-25, 2018"
-  loc: "NIH Campus"
+  loc: "NIH Campus" (NCBI sensu strictu)
   link:
   
 - date: "August 6-8, 2018"
-  loc: "New York Genome Center"
+  loc: "New York Genome Center" (NCBI sensu strictu)
   link:
+
+- date: "September 10-12"
+  loc: "NIH Research Festival" (NCBI sensu strictu)
+  link:
+
+- date: "September 20-23"
+  loc: "ASM-NGS Microbial Bioinformatics Hackathon" (NCBI is a community partner!)
+  link:
+
+- date: "October 12-14"
+  loc: "HackSeq" (NCBI style)
+  link: "https://www.hackseq.com/"
