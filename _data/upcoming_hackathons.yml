@@ -8,7 +8,7 @@
 
 - date: "May 14-16, 2018"
   loc: "Boston, MA (Bio-IT World) (NCBI is a community partner!)"
-  link: "http://www.bio-itworldexpo.com/hackathon_reg.aspx"
+  link: http://www.bio-itworldexpo.com/hackathon_reg.aspx
 
 - date: "May 18-20, 2018"
   loc: "sv.ai Papillary Renal Cell Carcinoma Hackathon, San Francisco, CA (NCBI is a community partner!)"
@@ -48,4 +48,4 @@
 
 - date: "October 12-14"
   loc: "HackSeq (NCBI style)"
-  link: "https://www.hackseq.com/"
+  link: https://www.hackseq.com/
