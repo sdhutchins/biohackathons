@@ -20,3 +20,5 @@ https://ncbi-hackathons.github.io/
 
 **Questions/problems?**
 Contact @brianzelip
+
+Integration test
