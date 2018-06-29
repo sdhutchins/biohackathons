@@ -87,7 +87,7 @@ Main topics: Data Interoperability, Bioinformatics, Semantic Web, Machine Learni
 
 Frequency: 1 per year
 
-Conference associated: N/A 
+Conference associated: Biohackathon symposium (1 day)
 
 ### NCBI
 
