@@ -1,3 +1,9 @@
+- name: "Advertise your Hackathon Project!" 
+  desc: "https://goo.gl/forms/V4rRzo7pcpdU5Bqo2"
+  repo_URL: "" 
+  manuscript_URL:  
+  manuscript_title: 
+
 - name: "SeqAcademy" 
   desc: "Self-guided educational workshop for ChIP-Seq and RNA-Seq https://seqacademy.org"
   repo_URL: "https://github.com/NCBI-Hackathons/seqacademy" 
