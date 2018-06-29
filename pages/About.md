@@ -30,7 +30,7 @@ Typically, participants will need to bring their own laptop to these programs.
 
 ## Hackathon styles employed by various institutions
 
-### Biohackathons
+### Biohackathon (DBCLS)
 
 Duration: 5-7 days
 
@@ -67,7 +67,7 @@ Frequency: 1 per year
 
 Conference associated?: BOSC 
 
-### Elixir
+### European BioHackathon (Elixir)
 
 Duration: 5 days
 
