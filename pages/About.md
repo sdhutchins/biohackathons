@@ -54,14 +54,16 @@ Conference associated?: Yes, GCC/BOSC
 
 ### Elixir
 
-Duration: ?
-Time per day: ?
+Duration: 5 days
+Time per day: 24 hours
 Goals: 
-++ Data Analysis
-++ Tool-building
-Main topics: 
-Frequency: ?
-Conference associated?: 
+++ Open source infrastractures for data interoperability
+++ Data integration
+++ Identifiers, metadata, ontologies
+++ Strengthen interactions between Elixir platforms/groups and community
+Main topics: Data Interoperability, Bioinformatics, Semantic Web, Machine Learning
+Frequency: 1 per year
+Conference associated: N/A 
 
 ### NCBI
 
