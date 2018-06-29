@@ -33,47 +33,78 @@ Typically, participants will need to bring their own laptop to these programs.
 ### Biohackathons
 
 Duration: 5-7 days
+
 Time per day: 24 hours
+
 Goals: 
-++ Data Analysis
-++ Tool-building
+* Open source infrastractures for data interoperability
+
+* Data integration
+
+* Identifiers, metadata, ontologies
+
 Main topics: 
-Frequency: 1-2 per year
-Conference associated?: 
+
+Frequency: 1 per year
+
+Conference associated: BioHackathon symposium (1 day)
 
 ### BOSC
 
 Duration: 2-4 days
+
 Time per day: variable
+
 Goals: 
-++ Data Analysis
-++ Tool-building
-Main topics: 
+
+* Data Analysis
+
+* Tool-building
+
+Main topics: Bioinformatics, Workflows, Community Standards, Data Interoperability, Data Visualisation
+
 Frequency: 1 per year
-Conference associated?: Yes, GCC/BOSC 
+
+Conference associated?: BOSC 
 
 ### Elixir
 
 Duration: 5 days
+
 Time per day: 24 hours
+
 Goals: 
-++ Open source infrastractures for data interoperability
-++ Data integration
-++ Identifiers, metadata, ontologies
-++ Strengthen interactions between Elixir platforms/groups and community
+
+* Open source infrastractures for data interoperability
+
+* Data integration
+
+* Identifiers, metadata, ontologies
+
+* Strengthen interactions between Elixir platforms/groups and community
+
 Main topics: Data Interoperability, Bioinformatics, Semantic Web, Machine Learning
+
 Frequency: 1 per year
+
 Conference associated: N/A 
 
 ### NCBI
 
 Duration: 3 days
+
 Time per day: ~9 hours/day
+
 Goals: 
-++ Data Analysis
-++ Tool-building
+
+* Data Analysis
+
+* Tool-building
+
 Main topics: Genomics, Bioinformatics, Clinical Informatics, Image analysis, Machine Learning
+
 Frequency: ~12/year
+
 Conference associated?: Varies 
 
 ### NCBI-style e.g. hackseq
