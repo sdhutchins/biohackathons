@@ -65,7 +65,7 @@ Main topics: Bioinformatics, Workflows, Community Standards, Data Interoperabili
 
 Frequency: 1 per year
 
-Conference associated?: BOSC 
+Conference associated: BOSC 
 
 ### European BioHackathon (Elixir/DBCLS/NBDC)
 
@@ -105,7 +105,7 @@ Main topics: Genomics, Bioinformatics, Clinical Informatics, Image analysis, Mac
 
 Frequency: ~12/year
 
-Conference associated?: Varies 
+Conference associated: Varies 
 
 ### NCBI-style e.g. hackseq
 
