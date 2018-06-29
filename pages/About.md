@@ -75,7 +75,7 @@ Time per day: 24 hours
 
 Goals: 
 
-* Open source infrastractures for data interoperability
+* Open source infrastructures for data interoperability
 
 * Data integration
 
