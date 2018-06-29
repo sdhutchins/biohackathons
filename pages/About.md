@@ -30,7 +30,7 @@ Typically, participants will need to bring their own laptop to these programs.
 
 ## Hackathon styles employed by various institutions
 
-### Biohackathon (DBCLS)
+### Biohackathon (DBCLS/NBDC)
 
 Duration: 5-7 days
 
