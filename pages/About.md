@@ -43,7 +43,7 @@ Goals:
 
 * Identifiers, metadata, ontologies
 
-Main topics: 
+Main topics: Data Interoperability, Bioinformatics, Semantic Web, Machine Learning
 
 Frequency: 1 per year
 
