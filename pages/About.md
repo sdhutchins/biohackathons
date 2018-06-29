@@ -67,7 +67,7 @@ Frequency: 1 per year
 
 Conference associated?: BOSC 
 
-### European BioHackathon (Elixir)
+### European BioHackathon (Elixir/DBCLS/NBDC)
 
 Duration: 5 days
 
