@@ -6,43 +6,17 @@ permalink: /Community-Resources.html
 
 # Community Resources
 
-### Repository name 1
+### An old list of community software 
 
 <a href="https://www.github.com/NCBI-Hackathons/Community_Software_Tools_for_NGS" target="_blank">http://www.github.com/NCBI-Hackathons/Community_Software_Tools_for_NGS</a>
 
-### Repository name 2
+### List of Bioconda packages
 
-<a href="https://www.github.com/NCBI-Hackathons/Community_Software_Tools_for_NGS" target="_blank">http://www.github.com/NCBI-Hackathons/Community_Software_Tools_for_NGS</a>
+### List of BioconductoR packages
 
-### Repository name 3
+### CWL workflows 
 
-<a href="https://www.github.com/NCBI-Hackathons/Community_Software_Tools_for_NGS" target="_blank">http://www.github.com/NCBI-Hackathons/Community_Software_Tools_for_NGS</a>
+### Nextflow workflows
 
-### Repository name 4
+### Please put in an issue (form coming soon) to add additional resources!
 
-<a href="https://www.github.com/NCBI-Hackathons/Community_Software_Tools_for_NGS" target="_blank">http://www.github.com/NCBI-Hackathons/Community_Software_Tools_for_NGS</a>
-
-### Repository name 5
-
-
-<a href="https://www.github.com/NCBI-Hackathons/Community_Software_Tools_for_NGS" target="_blank">http://www.github.com/NCBI-Hackathons/Community_Software_Tools_for_NGS</a>
-
-### Repository name 6
-
-<a href="https://www.github.com/NCBI-Hackathons/Community_Software_Tools_for_NGS" target="_blank">http://www.github.com/NCBI-Hackathons/Community_Software_Tools_for_NGS</a>
-
-### Repository name 7
-
-<a href="https://www.github.com/NCBI-Hackathons/Community_Software_Tools_for_NGS" target="_blank">http://www.github.com/NCBI-Hackathons/Community_Software_Tools_for_NGS</a>
-
-### Repository name 8
-
-<a href="https://www.github.com/NCBI-Hackathons/Community_Software_Tools_for_NGS" target="_blank">http://www.github.com/NCBI-Hackathons/Community_Software_Tools_for_NGS</a>
-
-### Repository name 9
-
-<a href="https://www.github.com/NCBI-Hackathons/Community_Software_Tools_for_NGS" target="_blank">http://www.github.com/NCBI-Hackathons/Community_Software_Tools_for_NGS</a>
-
-### Repository name 10
-
-<a href="https://www.github.com/NCBI-Hackathons/Community_Software_Tools_for_NGS" target="_blank">http://www.github.com/NCBI-Hackathons/Community_Software_Tools_for_NGS</a>
