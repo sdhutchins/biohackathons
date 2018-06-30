@@ -18,5 +18,7 @@ permalink: /Community-Resources.html
 
 ### Nextflow workflows
 
+### Dockstore
+
 ### Please put in an issue (form coming soon) to add additional resources!
 
