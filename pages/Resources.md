@@ -12,3 +12,4 @@ permalink: /Resources.html
 
 ### <a href="https://github.com/NCBI-Hackathons">Link to main Github Repo for NCBI Hackathons</a>
 
+### <a href="https://f1000research.com/search?q=hackathons">Link to F1000 Research Hackathons Page</a>
