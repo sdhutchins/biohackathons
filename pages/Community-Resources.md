@@ -16,6 +16,8 @@ permalink: /Community-Resources.html
 
 ### CWL workflows 
 
+<a href="https://www.commonwl.org/" target="_blank">https://www.commonwl.org/</a>
+
 ### Nextflow workflows
 
 ### Dockstore
