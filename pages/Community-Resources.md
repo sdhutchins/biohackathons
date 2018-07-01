@@ -14,6 +14,13 @@ permalink: /Community-Resources.html
 
 ### List of BioconductoR packages
 
+### bcbio workflows
+
+<a href="https://bcbio-nextgen.readthedocs.io/en/latest/contents/testing.html#example-pipelines" target="_blank">https://bcbio-nextgen.readthedocs.io/en/latest/contents/testing.html#example-pipelines</a>
+
+### List of Bioconda packages
+
+
 ### CWL workflows 
 
 <a href="https://www.commonwl.org/" target="_blank">https://www.commonwl.org/</a>
