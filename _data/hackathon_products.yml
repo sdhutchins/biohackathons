@@ -3,6 +3,12 @@
   repo_URL: "" 
   manuscript_URL:  
   manuscript_title: 
+  
+- name: "Common Workflow Language dependency manager" 
+  desc: "Developed at GCC-BOSC 2018 Hackathon"
+  repo_URL: "https://github.com/common-workflow-language/cwldep" 
+  manuscript_URL:  
+  manuscript_title: 
 
 - name: "SeqAcademy" 
   desc: "Self-guided educational workshop for ChIP-Seq and RNA-Seq https://seqacademy.org"
