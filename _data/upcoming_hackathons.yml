@@ -25,7 +25,7 @@
   
 - date: "October 5-7"
   loc: "Be the match immunogenomics hackathon"
-  link: 
+  link: https://github.com/nmdp-bioinformatics/dash/wiki
   community access:  
 
 - date: "October 12-14"
@@ -51,6 +51,11 @@
 - date: "November 12-16"
   loc: "European BioHackathon -- Paris (Biohackathon)"
   link: http://bh2018paris.info/
+  community access:
+
+- date: "February 2-4, 2019"
+  loc: "Seattle at Fred Hutch (NCBI)"
+  link: 
   community access:
 
 - date: "October 12-14, 2019"
