@@ -2,21 +2,6 @@
   loc: "ADVERTISE YOUR HACKATHON ON THIS PAGE!"
   link: https://goo.gl/forms/BijIwPgPo7nhtdG03
   community:  
-  
-- date: "August 6-8, 2018"
-  loc: "New York Genome Center (NCBI)"
-  link: https://goo.gl/forms/8AzKjA4QpGBa829h1
-  community access:
-
-- date: "September 7-9"
-  loc: "MedHacks (JHU)"
-  link: https://medhacks.org
-  community access:
-
-- date: "September 10-12"
-  loc: "NIH Research Festival (NCBI)"
-  link: https://docs.google.com/document/d/1ktVgd9BUaZDsCnyE2BpaJg7MbKZWRiBUiZwmRD9sofo/edit?usp=sharing
-  community access:
 
 - date: "September 20-23"
   loc: "ASM-NGS Microbial Bioinformatics Hackathon"
@@ -36,6 +21,11 @@
 - date: "October 15-16"
   loc: "2018 CIViC Hackathon and Curation Jamboree (pre-ASHG)"
   link: https://civicdb.org/meetings
+  community access:
+  
+- date: "October 19-21"
+  loc: "National Health Equity Hackathon, Austin TX"
+  link: https://hacking.healthcare/
   community access:
   
 - date: "November 9-10"
