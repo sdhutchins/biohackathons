@@ -4,6 +4,37 @@
   manuscript_URL:  
   manuscript_title: 
   
+- name: "phenotypeXpression" 
+  desc: "Subclassification of disease states based on the intersection of literature and expression"
+  repo_URL: "https://github.com/NCBI-Hackathons/phenotypeXpression" 
+  manuscript_URL:  
+  manuscript_title:   
+  
+- name: "PrIMP" 
+  desc: "A python toolkit for the predictive analysis of infection-prone microbiome pathways"
+  repo_URL: "https://github.com/NCBI-Hackathons/PrIMP" 
+  manuscript_URL:  
+  manuscript_title: 
+
+
+- name: "FlowBio" 
+  desc: "https://github.com/NCBI-Hackathons/FlowBio"
+  repo_URL: "https://github.com/NCBI-Hackathons/FlowBio" 
+  manuscript_URL:  
+  manuscript_title: 
+  
+- name: "ScrubSV" 
+  desc: "A QC pipeline for SVs calls based on coverage and SNP calls"
+  repo_URL: "https://github.com/NCBI-Hackathons/ScrubSV" 
+  manuscript_URL:  
+  manuscript_title: 
+
+- name: "Bugs and Drugs" 
+  desc: "A Versatile Antibiotic Resistance Pipeline"
+  repo_URL: "https://github.com/NCBI-Hackathons/Bugs_And_Drugs" 
+  manuscript_URL:  
+  manuscript_title: 
+
 - name: "Common Workflow Language dependency manager" 
   desc: "Developed at GCC-BOSC 2018 Hackathon"
   repo_URL: "https://github.com/common-workflow-language/cwldep" 
@@ -13,8 +44,8 @@
 - name: "SeqAcademy" 
   desc: "Self-guided educational workshop for ChIP-Seq and RNA-Seq https://seqacademy.org"
   repo_URL: "https://github.com/NCBI-Hackathons/seqacademy" 
-  manuscript_URL:  
-  manuscript_title: 
+  manuscript_URL: "https://f1000research.com/articles/7-628/v1"
+  manuscript_title: "SeqAcademy: an educational pipeline for RNA-Seq and ChIP-Seq analysis"
 
 - name: "Retrospotter" 
   desc: "A computational pipeline for measuring the expression of Human Endogenous Retroviruses using publicly available RNA Seq Data."
