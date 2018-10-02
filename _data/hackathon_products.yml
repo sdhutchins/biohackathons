@@ -4,6 +4,12 @@
   manuscript_URL:  
   manuscript_title: 
   
+- name: "BioSyntax" 
+  desc: "Syntax Highlighting for Computational Biology (hackseq '17)"
+  repo_URL: "biosyntax.org" 
+  manuscript_URL:  
+  manuscript_title:   
+
 - name: "phenotypeXpression" 
   desc: "Subclassification of disease states based on the intersection of literature and expression"
   repo_URL: "https://github.com/NCBI-Hackathons/phenotypeXpression" 
