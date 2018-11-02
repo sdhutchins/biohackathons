@@ -2,22 +2,7 @@
   loc: "ADVERTISE YOUR HACKATHON ON THIS PAGE!"
   link: https://goo.gl/forms/BijIwPgPo7nhtdG03
   community:  
-  
-- date: "October 15-16"
-  loc: "2018 CIViC Hackathon and Curation Jamboree (pre-ASHG)"
-  link: https://civicdb.org/meetings
-  community access:
-  
-- date: "October 19-21"
-  loc: "National Health Equity Hackathon, Austin TX"
-  link: https://hacking.healthcare/
-  community access:
-  
-- date: "October 22-24"
-  loc: "DC VoCamp Workshop/Hackathon"
-  link: http://vocamp.org/wiki/DCVoCamp2018
-  community access:
-  
+    
 - date: "November 9-10"
   loc: "Dallas at UTSW, pre-SC (NCBI Community Partner)"
   link: https://www.u-hackmed.org/
@@ -38,12 +23,16 @@
   link: https://sv.ai/undiagnosed-1
   community access:
 
-
 - date: "February 4-6, 2019"
   loc: "Seattle at Fred Hutch (NCBI) -- Team Proposals Now Open!"
   link: https://goo.gl/forms/LswaUhxaYrnLibpd2
   community access:
-  
+
+- date: "February 25-27, 2019"
+  loc: "IronHack + RNAseq at USF (NCBI) -- Team Proposals Now Open!"
+  link:   https://goo.gl/forms/wqEOZ9Ly9CM6iKx33
+  community access:
+
 - date: "March 11-13, 2019"
   loc: "Research Triangle at UNC (NCBI) -- Plus RNAseq analyzeathon phase 2!"
   link: 
