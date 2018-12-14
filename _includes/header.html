@@ -1,6 +1,9 @@
 <header>
-  <div class= "page-header no-margin no-padding">
+  <div class="page-header no-margin no-padding text-center">
     <img src="/img/banner2.png" class="my-banner img-responsive">
+    {% if site.banner-text != blank %}
+    <div class="caption">{{ site.banner-text }}</div>
+    {% endif %}
   </div>
 
   <nav class="my-navbar navbar-static-top navbar navbar-inverse" role="navigation" style="margin-bottom: 0;">
@@ -38,7 +41,7 @@
           <li><a href="Help.html">Help</a></li>
           <li><a href="Resources.html">Resources</a></li>
           <li><a href="Community-Resources.html">Community Resources</a></li>
-          <li><a href="Join-list.html">Join the mailing list!</a></li>
+          <li><a href="subscribe.html">Join the mailing list!</a></li>
         </ul>
       </div>
 
