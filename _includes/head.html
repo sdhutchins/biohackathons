@@ -5,7 +5,13 @@
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css">
   <link rel="stylesheet" href="/css/custom.css">
+  <link href="https://fonts.googleapis.com/css?family=Oswald|Source+Sans+Pro|Ubuntu" rel="stylesheet">
   <script src="/js/jquery.js"></script>
   <script src="/js/bootstrap.min.js"></script>
   <title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
+  <style>
+    body, html, div, p, a, footer {
+  font-family: "{{ site.font }}", sans-serif;
+}
+  </style>
 </head>
