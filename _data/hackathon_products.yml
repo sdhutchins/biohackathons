@@ -4,6 +4,48 @@
   manuscript_URL:  
   manuscript_title: 
   
+- name: "ConsensusML" 
+  desc: "Machine Learning to Detect Cancer Biomarkers from RNAseq Data"
+  repo_URL: "https://github.com/NCBI-Hackathons/ConsensusML" 
+  manuscript_URL:  
+  manuscript_title:   
+
+- name: "The-Broad-Institute-Single-Cell-RNA-Seq-Data-Set" 
+  desc: "Visualize cancer genomes with FAIR single-cell RNA-seq data"
+  repo_URL: "https://github.com/NCBI-Hackathons/The-Broad-Institute-Single-Cell-RNA-Seq-Data-Set" 
+  manuscript_URL:  
+  manuscript_title:   
+
+- name: "TheHumanPangenome" 
+  desc: "A Strategy for Building and Using a Human Reference Pangenome"
+  repo_URL: "https://github.com/NCBI-Hackathons/TheHumanPangenome" 
+  manuscript_URL:  
+  manuscript_title:   
+  
+- name: "personalgenomics" 
+  desc: "Empowering individuals to analyze their personal genomics data using publicly available tools"
+  repo_URL: "https://github.com/NCBI-Hackathons/personalgenomics" 
+  manuscript_URL:  
+  manuscript_title:   
+  
+- name: "RNA-Seq-in-the-Cloud" 
+  desc: "An Easy to Use Analysis System for All Human Public bulk RNAseq Data!"
+  repo_URL: "https://github.com/NCBI-Hackathons/RNA-Seq-in-the-Cloud" 
+  manuscript_URL:  
+  manuscript_title:     
+
+- name: "UPWARD" 
+  desc: "UPWARD: Uniting People Working Against Rare Diseases"
+  repo_URL: "https://github.com/NCBI-Hackathons/UPWARD" 
+  manuscript_URL:  
+  manuscript_title:     
+
+- name: "VirusDiscoveryProject" 
+  desc: "Software, architecture, and data index design for the 2018/2019 Virus Discovery Project"
+  repo_URL: "https://github.com/NCBI-Hackathons/VirusDiscoveryProject" 
+  manuscript_URL:  
+  manuscript_title:     
+
 - name: "BioSyntax" 
   desc: "Syntax Highlighting for Computational Biology (hackseq '17)"
   repo_URL: "biosyntax.org" 
