@@ -1,51 +1,49 @@
 - date: "ASAP"
   loc: "ADVERTISE YOUR HACKATHON ON THIS PAGE!"
   link: https://goo.gl/forms/BijIwPgPo7nhtdG03
-  community:  
-    
-  
+  ? community
+
 - date: "May 8-10,2019"
   loc: "Women-led BioData Science Hackathon at NIH (NCBI) -- Applications closed!!"
   link: https://www.surveymonkey.com/r/May2019_WomensHack_app
-  community access:
+  ? community access
 
 - date: "June 7-9, 2019"
   loc: "Undiagnosed Disease Hackathon (SVAI)"
   link: https://sv.ai/undiagnosed-1
-  community access:
+  ? community access
 
 - date: "June 10-11, 2019 (TBD)"
   loc: "Haplotype Annotation Hackathon at Johns Hopkins (NCBI)"
-  link: 
-  community access:
-  
+  ? link
+  ? community access
+
 - date: "June 17-21, 2019"
   loc: "Rocky Mountain HackCon 2019 -- Applications Open!"
   link: https://hackathon.colorado.edu
-  community access:
+  ? community access
 
 - date: "July 26-27, 2019"
   loc: "Bioinformatics Open Source Conference (BOSC) 2019 Collaboration Fest"
   link: https://www.open-bio.org/events/bosc/collaborationfest
-  community access:
+  ? community access
 
 - date: "August 12-14, 2019"
   loc: "Bacterial Genome Annotation Hackathon"
-  link: 
-  community access:  
-  
+  ? link
+  ? community access
+
 - date: "Fall, 2019"
   loc: "scRNA Hackathon, September 18-20, NYGC"
-  link: 
-  community access:
-  
+  ? link
+  ? community access
+
 - date: "October 12-14, 2019"
   loc: "Structural Variant Hunting at Baylor pre-ASHG"
-  link: 
-  community access:
-  
+  ? link
+  ? community access
+
 - date: "November 4-6, 2019"
   loc: "Virus Hunting in Metagenomes, Part 2!"
-  link: 
-  community access:
-
+  ? link
+  ? community access

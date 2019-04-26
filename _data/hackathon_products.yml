@@ -1,244 +1,243 @@
-- name: "Advertise your Hackathon Project!" 
+- name: "Advertise your Hackathon Project!"
   desc: "https://goo.gl/forms/V4rRzo7pcpdU5Bqo2"
-  repo_URL: "" 
-  manuscript_URL:  
-  manuscript_title: 
-  
-- name: "ConsensusML" 
+  repo_URL: ""
+  ? manuscript_URL
+  ? manuscript_title
+
+- name: "ConsensusML"
   desc: "Machine Learning to Detect Cancer Biomarkers from RNAseq Data"
-  repo_URL: "https://github.com/NCBI-Hackathons/ConsensusML" 
-  manuscript_URL:  
-  manuscript_title:   
+  repo_URL: "https://github.com/NCBI-Hackathons/ConsensusML"
+  ? manuscript_URL
+  ? manuscript_title
 
-- name: "The-Broad-Institute-Single-Cell-RNA-Seq-Data-Set" 
+- name: "The-Broad-Institute-Single-Cell-RNA-Seq-Data-Set"
   desc: "Visualize cancer genomes with FAIR single-cell RNA-seq data"
-  repo_URL: "https://github.com/NCBI-Hackathons/The-Broad-Institute-Single-Cell-RNA-Seq-Data-Set" 
-  manuscript_URL:  
-  manuscript_title:   
+  repo_URL: "https://github.com/NCBI-Hackathons/The-Broad-Institute-Single-Cell-RNA-Seq-Data-Set"
+  ? manuscript_URL
+  ? manuscript_title
 
-- name: "TheHumanPangenome" 
+- name: "TheHumanPangenome"
   desc: "A Strategy for Building and Using a Human Reference Pangenome"
-  repo_URL: "https://github.com/NCBI-Hackathons/TheHumanPangenome" 
-  manuscript_URL:  
-  manuscript_title:   
-  
-- name: "personalgenomics" 
+  repo_URL: "https://github.com/NCBI-Hackathons/TheHumanPangenome"
+  ? manuscript_URL
+  ? manuscript_title
+
+- name: "personalgenomics"
   desc: "Empowering individuals to analyze their personal genomics data using publicly available tools"
-  repo_URL: "https://github.com/NCBI-Hackathons/personalgenomics" 
-  manuscript_URL:  
-  manuscript_title:   
-  
-- name: "RNA-Seq-in-the-Cloud" 
+  repo_URL: "https://github.com/NCBI-Hackathons/personalgenomics"
+  ? manuscript_URL
+  ? manuscript_title
+
+- name: "RNA-Seq-in-the-Cloud"
   desc: "An Easy to Use Analysis System for All Human Public bulk RNAseq Data!"
-  repo_URL: "https://github.com/NCBI-Hackathons/RNA-Seq-in-the-Cloud" 
-  manuscript_URL:  
-  manuscript_title:     
+  repo_URL: "https://github.com/NCBI-Hackathons/RNA-Seq-in-the-Cloud"
+  ? manuscript_URL
+  ? manuscript_title
 
-- name: "UPWARD" 
+- name: "UPWARD"
   desc: "UPWARD: Uniting People Working Against Rare Diseases"
-  repo_URL: "https://github.com/NCBI-Hackathons/UPWARD" 
-  manuscript_URL:  
-  manuscript_title:     
+  repo_URL: "https://github.com/NCBI-Hackathons/UPWARD"
+  ? manuscript_URL
+  ? manuscript_title
 
-- name: "VirusDiscoveryProject" 
+- name: "VirusDiscoveryProject"
   desc: "Software, architecture, and data index design for the 2018/2019 Virus Discovery Project"
-  repo_URL: "https://github.com/NCBI-Hackathons/VirusDiscoveryProject" 
-  manuscript_URL:  
-  manuscript_title:     
+  repo_URL: "https://github.com/NCBI-Hackathons/VirusDiscoveryProject"
+  ? manuscript_URL
+  ? manuscript_title
 
-- name: "BioSyntax" 
+- name: "BioSyntax"
   desc: "Syntax Highlighting for Computational Biology (hackseq '17)"
-  repo_URL: "biosyntax.org" 
-  manuscript_URL:  
-  manuscript_title:   
+  repo_URL: "biosyntax.org"
+  ? manuscript_URL
+  ? manuscript_title
 
-- name: "phenotypeXpression" 
+- name: "phenotypeXpression"
   desc: "Subclassification of disease states based on the intersection of literature and expression"
-  repo_URL: "https://github.com/NCBI-Hackathons/phenotypeXpression" 
-  manuscript_URL:  
-  manuscript_title:   
-  
-- name: "PrIMP" 
+  repo_URL: "https://github.com/NCBI-Hackathons/phenotypeXpression"
+  ? manuscript_URL
+  ? manuscript_title
+
+- name: "PrIMP"
   desc: "A python toolkit for the predictive analysis of infection-prone microbiome pathways"
-  repo_URL: "https://github.com/NCBI-Hackathons/PrIMP" 
-  manuscript_URL:  
-  manuscript_title: 
+  repo_URL: "https://github.com/NCBI-Hackathons/PrIMP"
+  ? manuscript_URL
+  ? manuscript_title
 
-
-- name: "FlowBio" 
+- name: "FlowBio"
   desc: "https://github.com/NCBI-Hackathons/FlowBio"
-  repo_URL: "https://github.com/NCBI-Hackathons/FlowBio" 
-  manuscript_URL:  
-  manuscript_title: 
-  
-- name: "ScrubSV" 
+  repo_URL: "https://github.com/NCBI-Hackathons/FlowBio"
+  ? manuscript_URL
+  ? manuscript_title
+
+- name: "ScrubSV"
   desc: "A QC pipeline for SVs calls based on coverage and SNP calls"
-  repo_URL: "https://github.com/NCBI-Hackathons/ScrubSV" 
-  manuscript_URL:  
-  manuscript_title: 
+  repo_URL: "https://github.com/NCBI-Hackathons/ScrubSV"
+  ? manuscript_URL
+  ? manuscript_title
 
-- name: "Bugs and Drugs" 
+- name: "Bugs and Drugs"
   desc: "A Versatile Antibiotic Resistance Pipeline"
-  repo_URL: "https://github.com/NCBI-Hackathons/Bugs_And_Drugs" 
-  manuscript_URL:  
-  manuscript_title: 
+  repo_URL: "https://github.com/NCBI-Hackathons/Bugs_And_Drugs"
+  ? manuscript_URL
+  ? manuscript_title
 
-- name: "Common Workflow Language dependency manager" 
+- name: "Common Workflow Language dependency manager"
   desc: "Developed at GCC-BOSC 2018 Hackathon"
-  repo_URL: "https://github.com/common-workflow-language/cwldep" 
-  manuscript_URL:  
-  manuscript_title: 
+  repo_URL: "https://github.com/common-workflow-language/cwldep"
+  ? manuscript_URL
+  ? manuscript_title
 
-- name: "SeqAcademy" 
+- name: "SeqAcademy"
   desc: "Self-guided educational workshop for ChIP-Seq and RNA-Seq https://seqacademy.org"
-  repo_URL: "https://github.com/NCBI-Hackathons/seqacademy" 
+  repo_URL: "https://github.com/NCBI-Hackathons/seqacademy"
   manuscript_URL: "https://f1000research.com/articles/7-628/v1"
   manuscript_title: "SeqAcademy: an educational pipeline for RNA-Seq and ChIP-Seq analysis"
 
-- name: "Retrospotter" 
+- name: "Retrospotter"
   desc: "A computational pipeline for measuring the expression of Human Endogenous Retroviruses using publicly available RNA Seq Data."
-  repo_URL: "https://github.com/NCBI-Hackathons/retrospotter" 
-  manuscript_URL:  
-  manuscript_title: 
+  repo_URL: "https://github.com/NCBI-Hackathons/retrospotter"
+  ? manuscript_URL
+  ? manuscript_title
 
-- name: "Gerber" 
+- name: "Gerber"
   desc: "Generalized Easy Reproducible Bioinformatics Environment wRapper"
-  repo_URL: "https://github.com/NCBI-Hackathons/ContainerInception" 
-  manuscript_URL: "https://ncbi-hackathons.github.io/ContainerInception/" 
-  manuscript_title: 
+  repo_URL: "https://github.com/NCBI-Hackathons/ContainerInception"
+  manuscript_URL: "https://ncbi-hackathons.github.io/ContainerInception/"
+  ? manuscript_title
 
 - name: "SpoonFedNanopore"
   desc: "The world's simplest open-source nanopore alignment and assembly algorithm"
   repo_URL: "https://github.com/NCBI-Hackathons/SpoonFedNanopore"
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "HapPyNet"
   desc: "Haplotype Block Based Dimensionality Reduction for Complex Variant-Disease Associations"
   repo_URL: "https://github.com/NCBI-Hackathons/HapPyNet"
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "ClusterDuck (alpha)"
   desc: "Disease Clustering from Literature Based on Minimal Training Data"
   repo_URL: "https://github.com/NCBI-Hackathons/ClusterDuck"
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "EgreTT (alpha)"
   desc: "a merezoite Egress Tracking Tool for light microscopy studies"
   repo_URL: ""
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "viSRAtoo (beta)"
   desc: "Viewing genome expression on the gene and genome level"
   repo_URL: "https://github.com/NCBI-Hackathons/"
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "PubCode (concept)"
   desc: "An app platform for CLI Apps that engage NCBI/NLM Data and Services"
   repo_URL: "https://github.com/NCBI-Hackathons/PubCode"
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "MASSIF-BLAST (concept)"
   desc: "A toolkit of pipelines to assess and repair badly assembled genomes"
   repo_URL: "https://github.com/NCBI-Hackathons/MASSIF-BLAST"
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "drugdisco (beta)"
   desc: "A high throughput automated drug discovery pipeline"
   repo_URL: "https://github.com/NCBI-Hackathons/drugdisco"
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "MR_BACOn (beta)"
   desc: "Mendelian Randomization with Biomarker Associations for Causality with Outcomes"
   repo_URL: "https://github.com/NCBI-Hackathons/MR_BACOn"
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "Biollante"
   desc: "Biollante: A Tool to Identify Contamination in Plant Genomic Datasets"
   repo_URL: "https://github.com/NCBI-Hackathons/biollante"
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "VirusFriends"
   desc: "VirusFriends: discover viral sequences in the NCBI Sequence Read Archive!"
   repo_URL: "https://github.com/NCBI-Hackathons/VirusFriends"
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "NastyBugs"
   desc: "A simple method for finding antimicrobial resistance genes in metagenomic datasets"
   repo_URL: "https://github.com/NCBI-Hackathons/MetagenomicAntibioticResistance"
   manuscript_URL: https://f1000research.com/articles/6-1971/v1
-  manuscript_title: 
+  ? manuscript_title
 
 - name: "Gene Expression in Aging"
   desc: "Modular toolkit for RNAseq viewers and viewing"
   repo_URL: "https://github.com/NCBI-Hackathons/GeneExpressionAging"
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
   website: https://ncbi-hackathons.github.io/GeneExpressionAging/ideogram
 
 - name: "Adapter Database"
   desc: "A database of adapter sequences found in public databases"
   repo_URL: "https://github.com/NCBI-Hackathons/OnlineAdapterDatabase"
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "Genomic Robots"
   desc: "A Robotic Encapsulation of a variant calling robot that can return deidentified results"
   repo_URL: "https://github.com/NCBI-Hackathons/GenomicRobots"
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "arvos"
   desc: "A dockerized database and flask template for presentation of RNAseq results!"
   repo_URL: "https://github.com/NCBI-Hackathons/arvos"
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "Products Generated in the SVAI NF2 Hackathon"
   desc: ""
   repo_URL: "https://github.com/SVAI"
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "Mutation_burden"
   desc: "Calculates clone-specific mutational burden and evaluates whether there is any evidence counterindicating immunotherapy"
   repo_URL: "https://github.com/NCBI-Hackathons/Mutation_burden"
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "SuMu"
   desc: "Estimating Association of Genetic Features with Survival"
   repo_URL: "https://github.com/NCBI-Hackathons/SuMu"
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "Protein Correlation with Shiny"
   desc: "A Shiny App to Support Proteomic Correlation"
   repo_URL: "https://github.com/NCBI-Hackathons/Proteomic_Correlation_Shiny"
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "BarcSeek"
   desc: "BarcSeek: A Flexible Barcode Partitioning Tool for Demultiplexing Genomic Sequencing Data"
   repo_URL: "https://github.com/NCBI-Hackathons/BarcSeek"
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "Tumor_sim"
   desc: "Simulation of Tumor Genomes."
   repo_URL: "https://github.com/NCBI-Hackathons/Tumor_sim"
-  manuscript_URL: 
-  manuscript_title: 
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "DangerTrack"
   desc: "A system for evaluating difficult to assess regions that uses SV calls and mappability to generate a genome-wide score."
@@ -249,56 +248,56 @@
 - name: "Master gff3 parser"
   desc: "SeqIDMapper provides naming consistency in these input files by converting the sequence feature IDs in the entire file to the desired ID format using a single command."
   repo_URL: "https://github.com/NCBI-Hackathons/Master_gff3_parser"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "ga4gh ncbi api"
   desc: "Making NCBI data available using GA4GH methods."
   repo_URL: "https://github.com/NCBI-Hackathons/ga4gh-ncbi-api"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "Graph Extraction"
   desc: "Motivate the transition to graph genomes, we developed a simple graph-based genome browser that is accessible at http://graphymcbrowserface.umbc.in."
   repo_URL: "https://github.com/NCBI-Hackathons/Graph_Extraction"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "Virus Detection SRA"
   desc: "Sidearm searches the SRA database for viruses using the NCBI magicBLAST tool."
   repo_URL: "https://github.com/NCBI-Hackathons/Virus_Detection_SRA"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "Scan2CNV"
   desc: "Generate CNV calls from raw SNP array data using the command line."
   repo_URL: "https://github.com/NCBI-Hackathons/Scan2CNV"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "Epigenomics CWL"
   desc: "A CWL Pipeline and Docker Image for Performing Standard Single-Cell DNA Methylation Analyses."
   repo_URL: "https://github.com/NCBI-Hackathons/Epigenomics_CWL"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "PhenVar"
   desc: "PhenVar is designed to take one or more rsids and generate a list of PubMed IDs to query and generate novel associations between publications."
   repo_URL: "https://github.com/NCBI-Hackathons/PhenVar"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "PubMed2GenePairs"
   desc: "Text-driven identification and ranking of associated gene pairs in PubMed."
   repo_URL: "https://github.com/NCBI-Hackathons/PubMed2GenePairs"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "Visualizing MeSH Term Interaction Over Time"
   desc: "A tool to visually browse co-occurrence of MeSH terms in PubMeb."
   repo_URL: "https://github.com/NCBI-Hackathons/Visualizing_MeSH_Term_Interaction_Over_Time"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "PubRunner"
   desc: "Framework for running text mining tools on latest publications."
@@ -309,8 +308,8 @@
 - name: "svcompare"
   desc: "Comparison and estimation of breakpoints for SVs across different technologies and resources."
   repo_URL: "https://github.com/NCBI-Hackathons/svcompare"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "Structural Variant Comparison"
   desc: "Tools to compare structural variants to those in public databases!."
@@ -321,20 +320,20 @@
 - name: "Structural Variants CSHL"
   desc: "10x genomics read simulator, topsorter and danger track."
   repo_URL: "https://github.com/NCBI-Hackathons/Structural_Variants_CSHL"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "SRA2R"
   desc: "An R package for using the SRA toolki."
   repo_URL: "https://github.com/NCBI-Hackathons/SRA2R"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "Ultrafast Mapping CSHL"
   desc: "Finding expressed variants while streaming data."
   repo_URL: "https://github.com/NCBI-Hackathons/Ultrafast_Mapping_CSHL"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "RNA mapping"
   desc: "A self-guided hands-on RNAseq tutorial designed to run for free on cloud services."
@@ -351,8 +350,8 @@
 - name: "Code in PubMed Abstracts"
   desc: "This tool searches for code cited in PubMed abstracts by searching for popular repositories such as GitHub and Bitbucket."
   repo_URL: "https://github.com/NCBI-Hackathons/Code_in_PubMed_Abstracts"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "Network SNPs"
   desc: "MetaNetVar is a pipeline for applying network analysis tools for genomic variant analysis."
@@ -363,32 +362,32 @@
 - name: "Network Stats Acc Interop"
   desc: "SNP FSA is a pipeline for applying statistical analysis tools to identify interactions between SNPs and their effects on phenotypic expression."
   repo_URL: "https://github.com/NCBI-Hackathons/Network_Stats_Acc_Interop"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "3D 2D Rep Structure"
   desc: "Tool to create 2D diagrams from 3D protein structures and render them side by side."
   repo_URL: "https://github.com/NCBI-Hackathons/3D_2D_Rep_Structure"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "iCN3D MMTF"
   desc: "Ultrafast transfer of protein structure information from pdb to the NCBI iCN3D viewer."
   repo_URL: "https://github.com/NCBI-Hackathons/iCN3D-MMTF"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "PDB2Genome"
   desc: "Mapping PDB structures to gene-level in genome browsers, and visualizing SNPs."
   repo_URL: "https://github.com/NCBI-Hackathons/PDB2Genome"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "Metadata categorization"
   desc: "A crowdsourcing/expert curation platform for metadata categorization."
   repo_URL: "https://github.com/NCBI-Hackathons/Metadata_categorization"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "TCGA dbGaP"
   desc: "The repository contains scripts to automatically fetch related dbGaP studies and subsequently the specific sequence files for given TCGA data."
@@ -399,11 +398,11 @@
 - name: "Machine Learning Immunogenicity"
   desc: "A pipeline to learn about the immunogenicity of peptides based on prior data using TensorFlow."
   repo_URL: "https://github.com/NCBI-Hackathons/Machine_Learning_Immunogenicity"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
 
 - name: "Cancer Epitopes CSHL"
   desc: "A pipeline to approximate the immunogenicity of peptides resulting from cancer mutations based on structure and other factors."
   repo_URL: "https://github.com/NCBI-Hackathons/Cancer_Epitopes_CSHL"
-  manuscript_URL:
-  manuscript_title:
+  ? manuscript_URL
+  ? manuscript_title
