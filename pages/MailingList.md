@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Biohackathons mailing list"
-permalink: /mailing-list.html
+title: 'Join the BioHackathons mailing list'
+permalink: /Join-list.html
 ---
 
 <!-- Begin MailChimp Signup Form -->
