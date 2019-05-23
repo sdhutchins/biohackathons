@@ -3,9 +3,7 @@
 https://biohackathons.github.io/
 
 ---
-**Changelog**
-- Ben Busby migrated this site to be an international biohackathons site during the 2018 GCC/BOSC hackathon
-- Brian Zelip updated this site during the June 19-21, 2017 NYGC Hackathon.
+
 - This site is now a [Jekyll](http://jekyllrb.com/) site, which is automatically compiled via [GitHub Pages](https://pages.github.com).
 - It now contains some modularity, namely:
   - the html files in `_layouts/`
