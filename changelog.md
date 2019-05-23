@@ -10,3 +10,5 @@ and this project **does not yet** adhere to [Semantic Versioning](https://semver
 - Ben Busby migrated this site to be an international biohackathons site during the 2018 GCC/BOSC hackathon
 
 - Brian Zelip updated this site during the June 19-21, 2017 NYGC Hackathon.
+  - ported the site to a jekyll site
+  - Added an atomic css approach for the purposes of quickly scaffolding out an updated site (as well as better css organization, but that's another story). See the comment toward the middle of `css/custom.css` for more info.
