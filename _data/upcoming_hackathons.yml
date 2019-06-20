@@ -1,7 +1,7 @@
 - date: "ASAP"
   loc: "ADVERTISE YOUR HACKATHON ON THIS PAGE!"
   link: https://goo.gl/forms/BijIwPgPo7nhtdG03
-  community:  
+  community:
 
 - date: "June 7-9, 2019"
   loc: "Undiagnosed Disease Hackathon (SVAI)"
@@ -12,7 +12,7 @@
   loc: "Computational Medicine in the Cloud at Johns Hopkins (NCBI)"
   link: https://ncbiinsights.ncbi.nlm.nih.gov/2019/05/08/computational-medicine-in-the-cloud-june-10-11-2019/
   community access:
-  
+
 - date: "June 17-21, 2019"
   loc: "Rocky Mountain HackCon 2019 -- Applications Open!"
   link: https://hackathon.colorado.edu
@@ -25,30 +25,35 @@
 
 - date: "August 12-14, 2019"
   loc: "Bacterial Genome Annotation Hackathon"
-  link: 
-  community access:  
-  
+  link:
+  community access:
+
 - date: "September 1-7, 2019"
   loc: "NBDC/DBCLS Biohackathon, Fukuoka, Japan"
   link: https://docs.google.com/forms/d/e/1FAIpQLScMxAsoC_6XDhxh4XTYQkVvSlw5q1kxvtmsxi9jU_Lze4i5FQ/viewform
-  community access:  
-  
+  community access:
+
 - date: "Fall, 2019"
   loc: "scRNA Hackathon, September 18-20, NYGC"
-  link: 
+  link:
   community access:
-  
+
 - date: "October 12-14, 2019"
   loc: "Structural Variant Hunting at Baylor pre-ASHG"
-  link: 
+  link:
   community access:
-  
+
 - date: "November 4-6, 2019"
   loc: "Virus Hunting in Metagenomes, Part 2! -- University of Maryland"
-  link: 
+  link:
   community access:
 
 - date: "November 18-22, 2019"
   loc: "ELIXIR Biohackathon, Paris"
   link: https://www.biohackathon-europe.org
+  community access:
+
+- date: "November 8-10, 2019"
+  loc: "Dallas at UTSW"
+  link: https://www.u-hackmed.org/
   community access:
