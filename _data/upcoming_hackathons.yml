@@ -3,17 +3,6 @@
   link: https://goo.gl/forms/BijIwPgPo7nhtdG03
   community:
 
-
-- date: "October 12-14, 2019"
-  loc: "Structural Variant Hunting at Baylor pre-ASHG"
-  link: 
-  community access:
-
-- date: "November 4-6, 2019"
-  loc: "Virus Hunting in Metagenomes, Part 2! -- University of Maryland -- Applications Open!"
-  link: https://edwards.sdsu.edu/research/virus-hackathon2/
-  community access:
-
 - date: "November 8-10, 2019"
   loc: "Dallas at UTSW"
   link: https://www.u-hackmed.org/
@@ -24,6 +13,20 @@
   link: https://www.biohackathon-europe.org
   community access:
 
+- date: "January 8-10, 2020"
+  loc: "NIH Biomedical Data Science Codeathon in Pittsburgh -- Applications Open!"
+  link: https://ncbiinsights.ncbi.nlm.nih.gov/2019/10/30/codeathon-pittsburgh-jan-8-10/#more-3216
+  community access:
+
+- date: "January 16-17, 2020"
+  loc: "Save the Date -- Pangenomics Metadata 'Scopeathon' -- San Diego!"
+  link: 
+  community access:
+
+- date: "January 16-17, 2020"
+  loc: "Baylor Structural Variant Codeathon"
+  link: https://www.hgsc.bcm.edu/events/hackathon
+  community access:
 
 - date: "TBD"
   loc: "Single Cell Hackathon, NYGC"
