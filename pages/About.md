@@ -22,12 +22,6 @@ A manuscript outlining the design and usage of the software tools constructed by
 
 Typically, participants will need to bring their own laptop to these programs.
 
-## Publicity 
-
-#### [NCBI Blog Posts About Hackathons](https://ncbiinsights.ncbi.nlm.nih.gov/tag/hackathon/)
-
-#### r/Bioinformatics
-
 ## Hackathon styles employed by various institutions
 
 ### Biohackathon (DBCLS/NBDC)
@@ -107,5 +101,5 @@ Frequency: ~12/year
 
 Conference associated: Varies 
 
-### NCBI-style e.g. hackseq
+### NCBI-style e.g. Hackseq, U-HackMed
 

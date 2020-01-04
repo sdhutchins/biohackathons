@@ -1,9 +1,5 @@
 ---
 layout: page
-<<<<<<< HEAD:subscribe.html
-type: subscribe
----
-=======
 title: 'Join the BioHackathons mailing list'
 permalink: /Join-list.html
 ---
@@ -15,7 +11,6 @@ permalink: /Join-list.html
 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
->>>>>>> b2354dbdf4423debb41efa602c161b7d81faff91:pages/MailingList.md
 <div id="mc_embed_signup">
 <form action="https://github.us18.list-manage.com/subscribe/post?u=93303e2f2085ceb80a9e761c8&amp;id=9080936e6e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
