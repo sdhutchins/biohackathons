@@ -1,7 +1,5 @@
 title: "biohackathons"
 
 # Use a Google Font
-font: "Source Sans Pro" # Can also be Ubuntu or Oswald
+font: "Oswald" # Can also be 'Ubuntu', 'Public Sans', 'Source Sans Pro', or 'Oswald'
 
-# Leave blank if you don't want text over the banner.
-banner-text:
