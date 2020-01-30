@@ -3,20 +3,28 @@
   link: https://goo.gl/forms/BijIwPgPo7nhtdG03
   community:
 
+- date: "February 22, 2020"
+  loc: "Hacking to Cure Michael -- Worldwide"
+  link: https://www.hackingtocuremichael.com
+  community access:
 
+- date: "March 2-4, 2020"
+  loc: "Rocky Mountain Genomics HackCon III -- Nucleic Acid Editing, Boulder, CO"
+  link: https://www.triconference.com/hackathon
+  community access:
+  
+- date: "March 9-12, 2020"
+  loc: "Alliance of International Developers for Rare Diseases, Kashiwa, Japan"
+  link: https://aidrd.github.io/aidrd2020/
+  community access:
+  
 - date: "April 19-21, 2020"
   loc: "Baylor Structural Variant Codeathon"
-  link: 
+  link: https://www.hgsc.bcm.edu/events/hackathon 
   community access:
-  
-- date: "May 2020"
-  loc: "World Wide Rare Disease Codeathon"
-  link: 
-  community access:
-  
   
 - date: "June 8-12, 2020"
   loc: "Rocky Mountain Genomics HackCon III -- Nucleic Acid Editing"
-  link: 
+  link: https://hackathon.colorado.edu 
   community access:
 
