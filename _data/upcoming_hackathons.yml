@@ -3,15 +3,31 @@
   link: https://goo.gl/forms/BijIwPgPo7nhtdG03
   community:
 
+### Online CoVID-19 Hackathons ###
+
+- date: "April 4-5"
+  loc: "Online -- Stanford Based"
+  link: 
+  community access:
+
+- date: "April 5-?"
+  loc: "Online - Biohackathon (Japan) Based"
+  link: 
+  community access:
+
+- date: "April 18-19"
+  loc: "Online -- London Based"
+  link: 
+  community access:
 
   
-- date: "April 19-21, 2020"
+- date: "POSTPONED: October 10-13, 2020"
   loc: "Baylor Structural Variant Codeathon"
   link: https://www.hgsc.bcm.edu/events/hackathon 
   community access:
   
 - date: "June 8-12, 2020"
-  loc: "Rocky Mountain Genomics HackCon III -- Nucleic Acid Editing"
+  loc: "Rocky Mountain Genomics HackCon III -- TBD"
   link: https://hackathon.colorado.edu 
   community access:
 
