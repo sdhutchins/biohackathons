@@ -12,12 +12,17 @@
 
 - date: "April 5-9"
   loc: "Online - Biohackathon (Japan) Based"
-  link: 
+  link: https://github.com/virtual-biohackathons/covid-19-bh20
   community access:
 
 - date: "April 18-19"
   loc: "Online -- London Based"
   link: 
+  community access:
+
+- date: "Open"
+  loc: "Kaggle Research Dataset Challenge"
+  link: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
   community access:
 
   
