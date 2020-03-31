@@ -6,7 +6,7 @@
 ### Online CoVID-19 Hackathons ###
 
 - date: "April 4-5"
-  loc: "Online -- Stanford Based"
+  loc: "Online -- Research to the People -- Stanford Based"
   link: https://www.researchtothepeople.org/ncov-initiatives
   community access:
 
@@ -16,7 +16,7 @@
   community access:
 
 - date: "Current - May 21"
-  loc: "Online -- Vancouver Based"
+  loc: "Online -- Hackseq -- Vancouver Based"
   link: https://www.hackseq.com/rna
   community access:
 
@@ -24,7 +24,6 @@
   loc: "Kaggle Research Dataset Challenge"
   link: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
   community access:
-
   
 - date: "POSTPONED: October 10-13, 2020"
   loc: "Baylor Structural Variant Codeathon"
