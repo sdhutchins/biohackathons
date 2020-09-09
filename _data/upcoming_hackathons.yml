@@ -3,40 +3,35 @@
   link: https://goo.gl/forms/BijIwPgPo7nhtdG03
   community:
 
-### Online CoVID-19 Hackathons ###
+### Online Hackathons! ###
 
-- date: "April 4-5"
-  loc: "Online CoVID-19 -- Research to the People -- Stanford Based"
-  link: https://www.researchtothepeople.org/ncov-initiatives
+- date: "September 16-18, 2020"
+  loc: "DaSH Hackathon"
+  link: Watch this space! https://github.com/nmdp-bioinformatics
   community access:
 
-- date: "April 5-9"
-  loc: "Online CoVID-19 (and other coronaviruses) Hackathon! - Biohackathon (Japan) Based"
-  link: https://github.com/virtual-biohackathons/covid-19-bh20
+- date: "September 29 - October 30, 2020 "
+  loc: "PrecisionFDA Precision Immunology App-a-thon!"
+  link: Coming soon! 
   community access:
 
-- date: "April 23-25"
-  loc: "Online CoVID-19 HLA (and some othe HLA projects) Hackathon! - NMDP/Bethematch  Based"
-  link: https://github.com/nmdp-bioinformatics/dash/wiki/DASH10
+- date: "October 2 - November 13, 2020 "
+  loc: "Hack for NF"
+  link: https://www.ctf.org/news/hack-for-nf-2020
   community access:
 
-- date: "Current - May 21"
-  loc: "Online CoVID-19 Hackathon! -- Hackseq -- Vancouver Based"
-  link: https://www.hackseq.com/rna
-  community access:
-
-- date: "Open"
-  loc: "Kaggle Research Dataset Challenge"
-  link: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
-  community access:
-  
-- date: "POSTPONED: October 10-13, 2020"
+- date: "October 11-14, 2020"
   loc: "Baylor Structural Variant Codeathon"
   link: https://www.hgsc.bcm.edu/events/hackathon 
   community access:
   
-- date: "June 8-12, 2020"
+- date: "TBD, 2021"
   loc: "Rocky Mountain Genomics HackCon III -- TBD"
   link: https://hackathon.colorado.edu 
+  community access:
+  
+  - date: "Open"
+  loc: "Kaggle Research Dataset Challenge"
+  link: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
   community access:
 
